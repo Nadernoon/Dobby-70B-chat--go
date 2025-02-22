@@ -1,8 +1,8 @@
-🚀 How to Run
-Install Go if you haven’t already:
+🚀 How to Run	
+Install Go if you haven’t already
 sh
-Copy
-Edit
+Copy  
+Edit 
 sudo apt install -y golang
 Set up your project:
 sh
