@@ -1,6 +1,6 @@
 Overview
 -
- with this code you can integrate with Chat with Dobby-70B via Fireworks API
+ with this code you can integrate with Chat with Dobby-70B via Fireworks API.
  write code with go
  
 code
